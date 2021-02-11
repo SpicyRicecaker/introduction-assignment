@@ -13,7 +13,10 @@
       await tick();
       const latexElements = document.getElementsByClassName('language-tex');
       for (let i = 0; i < latexElements.length; i++) {
-        latexElements[i].innerHTML = katex.renderToString(latexElements[i].innerHTML, {throwOnError: false});
+        latexElements[i].innerHTML = katex.renderToString(
+          latexElements[i].innerHTML,
+          { throwOnError: false }
+        );
       }
     } catch (e) {
       console.log(e);
@@ -56,6 +59,12 @@
   @media (min-width: 640px) {
     main {
       max-width: none;
+    }
+  }
+
+  @media (min-width: 992px) {
+    main {
+      width: 50%;
     }
   }
 </style>
