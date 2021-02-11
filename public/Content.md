@@ -26,3 +26,13 @@ He tries to use [Anki](https://apps.ankiweb.net/) to memorize terms, but has not
 ## How to spend freetime
 
 Andy would like to spend freetime pursuing his passions: playing Minecraft, eating food, sleeping, or making a cool website. However, in the recent weeks he has been routinely dragged down the Youtube rabbit hole and thus does not currently have any freetime.
+
+---
+
+## What is the (imagined) context of the text?
+
+The context of reception is a high school class, and context of production is for an assignment in lit and comp. It's purpose is to inform the audience about what the Author (me, a 16 year old student at Sunset High School) am passionate about, what I'm proud of, whom I'm surrounded by, how I learn, and how I spend my freetime. In an imagined context, I'd be a regular old Joe making my own Wikipedia page, intending for it to be for future researchers studying the human mind. 
+
+## What are the characteristics and features of the text type?
+
+Since it is basically an Encyclopedia entry, I wanted it to be in a third-person form, with rigidly structured subtitles and related titles below, as well as very fact-focused text. This content should be easily searched through with `ctrl+f` to pinpoint the topic at interest, as well as easily accessible, hence in the form of a website. 
